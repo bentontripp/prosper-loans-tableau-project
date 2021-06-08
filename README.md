@@ -22,7 +22,14 @@ The project investigates the Prosper interest Rates, as well as the relationship
  - Total Annual Income
  - Whether Income is Verifiable
  - Open Credit Lines
- - Location (State) 
+ - Location (State)
+ 
+ Some of the key points are:
+  1. Rates peaked around 2011, and then began to decline.
+  2. The majority of borrower rates ranged from 12-26%.
+  3. Higher and verifiable income correlates to lower rates.
+  4. Borrowers with between 12 and 30 lines of credit generally have the best rates.
+  5. Median rates by state vary from 15-20%, with Maine at the lowest median rates and Alabama at the highest.
 
 *None of the visualizations within the project are suggesting that there is a causal effect between relationships. They are purely for an understanding of variable correllation, as well as a deeper understanding of the Prosper loan interest rates.*
 
